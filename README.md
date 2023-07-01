@@ -1,2 +1,2 @@
 # Coundown-Timer-Program
-Link - https://github.com/DevSahanL/Coundown-Timer-Program.git
+Link - https://devsahanl.github.io/Coundown-Timer-Program/
