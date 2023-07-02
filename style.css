@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+
+  background-image: url(Images/fabian-mardi-kVKz9qnJC-k-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  min-height: 100vh;
+  margin-top: 20px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+}
+
+h1 {
+  font-size: 40px;
+ 
+}
+
+.countdown-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.big-text {
+  font-size: 60px;
+  margin-top: 10px;
+  padding: 5px 10px;
+  line-height: 1;
+  margin-bottom: 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.countdown-el {
+  
+  align-items: center;
+  text-align: center;
+}
+.countdown-el span {
+  font-size: 18px;
+  text-align: center;
+  align-items: center;
+}
